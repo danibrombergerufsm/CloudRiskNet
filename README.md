@@ -51,8 +51,7 @@ After 10 epochs of training:
 ## ▶️ How to Run
 
 1. Open the notebook in **Google Colab**:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<img width="532" height="487" alt="image" src="https://github.com/user-attachments/assets/6be4a2e9-6e3f-4492-a198-d7ae216265f4" />
-)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KAqZNKlcN_iDGDRT-fbz5HMzHsaV1hNV?usp=sharing)
 
 2. The dataset is downloaded automatically via `kagglehub`:
    ```python
