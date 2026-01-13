@@ -2,9 +2,6 @@
 
 > A deep learning model to classify weather images into **High-Risk** vs **Low-Risk** categories for electrical infrastructure resilience.
 
-![Model Accuracy](https://via.placeholder.com/400x200?text=Training+Curves+Here)  
-*(Replace with actual plot when publishing)*
-
 ## 🎯 Objective
 
 Power grids are vulnerable to extreme weather events. This project uses **computer vision and transfer learning** to automatically detect high-risk atmospheric conditions from sky/cloud images — enabling early warnings for grid operators.
@@ -54,9 +51,10 @@ After 10 epochs of training:
 ## ▶️ How to Run
 
 1. Open the notebook in **Google Colab**:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link-to-your-colab)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<img width="532" height="487" alt="image" src="https://github.com/user-attachments/assets/6be4a2e9-6e3f-4492-a198-d7ae216265f4" />
+)
 
-2. The dataset is downloaded automatically via `kagglehub` (no API key needed):
+2. The dataset is downloaded automatically via `kagglehub`:
    ```python
    import kagglehub
    path = kagglehub.dataset_download("jehanbhathena/weather-dataset")
